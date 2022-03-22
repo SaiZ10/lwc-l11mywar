@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/saiz10.lwc-l11mywar",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve FvFVslGDAVi1vUld3znv --open"
+  }
+}
